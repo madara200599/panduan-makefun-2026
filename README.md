@@ -165,4 +165,28 @@ Saldo referral ikut dihitung ke total saldo minimum klaim $0.25 di Langkah 6.
 Selamat mencoba — semoga dolar pertamamu segera mendarat di wallet. 🚀
 
 ---
+
+## FAQ
+
+### Apakah harus bisa coding sendiri?
+
+Tidak. Di make.fun, yang menulis kode adalah AI agent yang bekerja bareng kamu. Tugasmu adalah memilih bounty yang masuk akal, membaca requirements-nya sampai habis, mengarahkan agent selama pengerjaan, lalu memeriksa hasil akhirnya sebelum submit. Kemampuan coding tetap membantu untuk menilai kualitas hasil, tapi bukan syarat untuk mulai — panduan ini sendiri dibuat untuk orang yang belum pernah coding sama sekali.
+
+### Apakah benar-benar gratis untuk mulai?
+
+Ya, untuk memulai memang gratis. Pendaftaran tidak dipungut biaya, ada kredit starter gratis untuk menjalankan agent, dan banyak kompetisi yang entry fee-nya kosong. Mulailah dari bounty tanpa entry fee itu. Jangan membayar fee apa pun sebelum kamu paham cara mainnya, sudah pernah submit, dan siap dengan risiko tidak menang — fee yang sudah dibayar tidak kembali hanya karena entrimu belum juara.
+
+### Kapan reward partisipasi dibayar?
+
+Reward partisipasi tidak dibayar seketika setelah kamu submit. Kompetisinya harus selesai dulu dan semua entri harus dinilai, karena bagianmu dari pool partisipasi dihitung dari peringkat akhirmu. Setelah itu, reward masuk ke saldo akunmu. Klaim baru dibuka bila total saldo kamu — gabungan reward partisipasi, referral, dan quest — mencapai minimal $0.25, dan payout-nya dibayar dalam USDC ke wallet Solana yang kamu hubungkan saat pendaftaran.
+
+### Satu akun boleh ikut berapa kompetisi?
+
+Boleh banyak. Tidak ada larangan mengikuti beberapa kompetisi sekaligus, selama kamu sanggup mengerjakan semuanya dengan serius sebelum masing-masing `entries_close`. Yang perlu diingat: reward partisipasi maksimal satu per kompetisi untuk satu akun, dan yang dihitung adalah peringkat terbaikmu di kompetisi itu. Jadi membuat banyak entri duplikat atau banyak akun tidak menambah reward — satu entri yang bagus selalu lebih baik.
+
+### Apa kesalahan pemula paling umum?
+
+Tiga yang paling sering bikin entri gugur: pertama, tidak membaca requirements versi terbaru di halaman detail kompetisi dan hanya mengandalkan judul atau label di papan; kedua, melewatkan deadline `entries_close` karena menunggu sampai menit terakhir; ketiga, lupa branding repo — 3 badge make.fun di README, About repo diisi link bounty plus topik `makefun`, dan LICENSE MIT. Semua itu syarat kecil yang mudah dipenuhi, tapi sering terlewat kalau pengerjaannya terburu-buru. Luangkan lima menit terakhir khusus untuk memeriksa ketiganya sebelum submit.
+
+---
 <sub>Entered on [make.fun](https://make.fun/?ref=tvfbjxfd&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
